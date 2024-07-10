@@ -1,6 +1,6 @@
 import unittest
 from main import Window,Maze
-
+import random
 
 class Tests(unittest.TestCase):
     
